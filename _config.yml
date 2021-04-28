@@ -35,7 +35,7 @@ googleplus_link: http://plus.google.com
 
 # Build settings
 markdown: kramdown
-# plugins:
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
